@@ -6,6 +6,7 @@
       {
         "id": "ff7284309c74e805",
         "type": "tabs",
+        "dimension": 73.56733524355302,
         "children": [
           {
             "id": "d8700a25d168559c",
@@ -22,6 +23,7 @@
       {
         "id": "3ad0bae8af396412",
         "type": "tabs",
+        "dimension": 26.432664756446993,
         "children": [
           {
             "id": "e0672ca86164f3b6",
@@ -29,15 +31,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting Text and Background Colors.md",
+                "file": "+/Atlas/Concepts/Setting Text and Background Colors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Setting Text and Background Colors"
             }
+          },
+          {
+            "id": "3fa644dcc0dd6aad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+/Atlas/Concepts/@import.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "@import"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,37 +215,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "e0672ca86164f3b6",
+  "active": "d8700a25d168559c",
   "lastOpenFiles": [
+    "+/Atlas/Concepts/@import.md",
+    "+/Atlas/Concepts/Setting Text and Background Colors.md",
     "+/Atlas/HUBs/Working with Color in CSS.md",
-    "Setting Text and Background Colors.md",
-    "Defining Semi-Opaque Colors.md",
-    "HSL Color Values.md",
-    "RGB Color values.md",
-    "Color Names.md",
+    "+/Atlas/Concepts/Defining Semi-Opaque Colors.md",
+    "+/Atlas/Concepts/HSL Color Values.md",
+    "+/Atlas/Concepts/RGB Color values.md",
+    "+/Atlas/Concepts/Color Names.md",
     "RGB values.md",
     "color values.md",
-    "browser style sheet.md",
-    "Proskills - Written Communication in Color.md",
+    "+/Atlas/Concepts/browser style sheet.md",
+    "+/Atlas/Concepts/Proskills - Written Communication in Color.md",
     "HTML_CSS_FILES/html02/demo/demo_color_names.html.md",
     "+/Atlas/Courses/HTML_CSS/Level 1/Tutorial 2_Getting Started with CSS/Tutorial 1_Session 2.1 CSS Styles and Colors.md",
     "+/Atlas/HUBs/Creating a Style Sheet.md",
-    "@import.md",
-    "Importing Style Sheets.md",
-    "CSS at-rule.md",
-    "Defining the Character Encoding.md",
-    "Writing Style Comments.md",
+    "+/Atlas/Concepts/Importing Style Sheets.md",
+    "+/Atlas/Concepts/CSS at-rule.md",
+    "+/Atlas/Concepts/Defining the Character Encoding.md",
+    "+/Atlas/Concepts/Writing Style Comments.md",
     "HTML_CSS_FILES/html02/tutorial/tss_bike.html",
     "HTML_CSS_FILES/html02/tutorial/tss_styles.css",
     "HTML_CSS_FILES/html02/tutorial/tss_home.html",
     "+/Atlas/HUBs/Exploring Style Rules.md",
-    "Browser Developer Tools.md",
-    "Style Inheritance.md",
-    "Style Specificity and Precedence.md",
+    "+/Atlas/Concepts/Browser Developer Tools.md",
+    "+/Atlas/Concepts/Style Inheritance.md",
+    "+/Atlas/Concepts/Style Specificity and Precedence.md",
     "+/Atlas/References/Inline Styles.md",
     "+/Atlas/References/Inline Elements.md",
     "+/Atlas/References/Browser Extensions.md",
-    "vendor prefix.md",
+    "+/Atlas/Concepts/vendor prefix.md",
     "+/Atlas/Courses/HTML_CSS/Level 1/Tutorial 1 Getting started with HTML5",
     "JavaScript/Chapter02/Solano, Israel - JS02-P02.zip",
     "JavaScript/Chapter02/project02.zip",
