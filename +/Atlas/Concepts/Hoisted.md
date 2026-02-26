@@ -1,0 +1,1 @@
+Hoisting means the JavaScript engine moves the function definition to the top of its scope during compilation.

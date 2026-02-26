@@ -1,0 +1,1 @@
+a global variable can be unexpectedly changed by one of the many functions scattered throughout a large and complex application. It is much easier for the team to confine their work to local variables whose scope is well-contained and easily tracked. If a value needs to be used within a function, it is much better to pass that value as a parameter of the function.

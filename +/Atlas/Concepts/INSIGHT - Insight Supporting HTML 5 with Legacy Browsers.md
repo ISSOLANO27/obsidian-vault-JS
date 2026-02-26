@@ -1,0 +1,5 @@
+HTML 5 introduced several new semantic elements including the **header**, **footer**, **article**, and **nav** elements. 
+
+Some browsers, such as Internet Explorer Version 8, could not cope with new elements without an external program known as a **script** running in the browser.
+
+One script that provides support for HTML 5 is [Modernizr](_http://modernizr.com_); another is HTML 5 [Shiv](_https://github.com/aFarkas/HTML 5shiv_). Many HTML editors, such as Dreamweaver, supply their own script files to cope with legacy browsers. #oldCodeNeverDies #OlderVersionOfHTML  Note that even with these scripts, the rendering of your page under old browsers might not match current browsers.

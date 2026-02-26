@@ -1,0 +1,1 @@
+A **prefix** operator is a unary operator placed before the variable, while a postfix operator is placed after the variable.

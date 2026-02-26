@@ -1,0 +1,1 @@
+Instead of a single specification, CSS is divided into many modules, each focusing on a specific area (e.g., [[selectors]], [[color]], [[fonts]], [[backgrounds]], [[animations]], [[transforms]]).

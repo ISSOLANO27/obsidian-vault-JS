@@ -1,0 +1,1 @@
+Because users enter decimal values in web interfaces and the interfaces display decimal results to users, this discrepancy can cause problems, especially when it comes to calculating exact monetary values such as dollars and cents.

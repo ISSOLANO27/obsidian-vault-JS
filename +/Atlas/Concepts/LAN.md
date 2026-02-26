@@ -1,0 +1,1 @@
+ A network confined to a small geographic area, such as within a building or department, is referred to as a **local area network**

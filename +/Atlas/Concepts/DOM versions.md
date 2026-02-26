@@ -1,0 +1,9 @@
+>The DOM is managed by the [[World Wide Web Consortium (W3C)]]
+
+| DOM         | DATE          | FEATURES                                                                                                                                                                                      |
+| ----------- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| DOM Level 0 | 1995          | Provided a basic interface to access the contents of a web page using the initial version of JavaScript                                                                                       |
+| DOM Level 1 | October 1998  | Added a way of mapping the content of a web page to JavaScript keywords, functions, properties, and methods                                                                                   |
+| DOM Level 2 | December 2000 | Added an interface to events occurring within the web page, the contents of CSS style sheets, and the ability to transverse and manipulate the hierarchical structure of the web page content |
+| DOM Level 3 | April 2004    | Added support for methods to load and save web documents, validate web forms, and provides the ability to work with keyboard objects and events                                               |
+| DOM Level 4 | November 2015 | An ongoing “living standard” that is updated to reflect the events and actions occurring within the document model based on the evolving needs of the market and mobile devices               |

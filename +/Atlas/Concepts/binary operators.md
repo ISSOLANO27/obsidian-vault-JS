@@ -1,0 +1,1 @@
+A binary operator requires an operand before and after the operator. The equal sign in the statement myNumber = 100; is an example of a binary operator.

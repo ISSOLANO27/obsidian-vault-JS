@@ -1,0 +1,3 @@
+...Imagine clicking an image on a page. In doing so, you have clicked more than the image; you have also clicked the browser window, the web page itself, and any page element containing the image. 
+
+The distinction between the capture and bubbling phases is usually only important for more advanced applications, like online games. In this chapter and others, the _capture_ argument will not be used so that events will only be listened to in the bubbling phase by default.

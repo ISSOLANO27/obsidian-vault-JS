@@ -1,0 +1,1 @@
+scan HTML code for the email addresses contained in mailto URLs

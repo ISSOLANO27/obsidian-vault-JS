@@ -1,0 +1,1 @@
+Specifies the document’s location for use with resolving relative hypertext links

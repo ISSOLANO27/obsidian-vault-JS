@@ -1,0 +1,1 @@
+JavaScript manages an event through a model that describes How objects and events interact within the web page and web browser

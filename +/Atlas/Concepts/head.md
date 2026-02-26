@@ -1,0 +1,1 @@
+Contains a collection of metadata elements that describe the document or provide instructions to the browser

@@ -1,0 +1,1 @@
+a program that is executed on a server but is accessed through a web page loaded in a client browse.

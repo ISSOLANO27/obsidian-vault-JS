@@ -1,0 +1,1 @@
+Defines the display styles used to render the document content

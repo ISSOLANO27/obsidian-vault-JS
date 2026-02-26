@@ -1,0 +1,1 @@
+ [[Text String or Literal String]] must be placed on the same line. **You will get an error if you include a line break within the literal string**.

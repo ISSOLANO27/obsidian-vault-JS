@@ -1,0 +1,1 @@
+the specific category of information that a variable contains.

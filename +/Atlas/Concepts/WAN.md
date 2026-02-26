@@ -1,0 +1,1 @@
+ A network that covers a wider area, such as several buildings or cities, is called a wide area network

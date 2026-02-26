@@ -1,0 +1,1 @@
+The fact that the Internet and the World Wide Web are synonymous in many users’ minds is a testament to the success of the hypertext approach.

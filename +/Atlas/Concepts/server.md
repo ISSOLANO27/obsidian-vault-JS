@@ -1,0 +1,1 @@
+A host that provides information or a service to other devices on the network

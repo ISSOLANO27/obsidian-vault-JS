@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "df9c7c39efbc3ecc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff7284309c74e805",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8700a25d168559c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3ad0bae8af396412",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0672ca86164f3b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting Text and Background Colors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Setting Text and Background Colors"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f08714eef9ddb6c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7428b54e35a15548",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c6aaabdc66ebd3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "31be56823b97a671",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4484b15f32baf836",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "df792c518849b2f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d243f225e228a1f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7ffabb00ac44590",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "+/Atlas/Courses/HTML_CSS/Level 1/Tutorial 2_Getting Started with CSS/Session 2.1 CSS Styles and Colors.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Session 2.1 CSS Styles and Colors"
+            }
+          },
+          {
+            "id": "9fd2c924cdc0fa64",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "52bf7f806222d5be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "acb6265090a8cb3d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ca462c320ef767a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e0672ca86164f3b6",
+  "lastOpenFiles": [
+    "+/Atlas/HUBs/Working with Color in CSS.md",
+    "Setting Text and Background Colors.md",
+    "Defining Semi-Opaque Colors.md",
+    "HSL Color Values.md",
+    "RGB Color values.md",
+    "Color Names.md",
+    "RGB values.md",
+    "color values.md",
+    "browser style sheet.md",
+    "Proskills - Written Communication in Color.md",
+    "HTML_CSS_FILES/html02/demo/demo_color_names.html.md",
+    "+/Atlas/Courses/HTML_CSS/Level 1/Tutorial 2_Getting Started with CSS/Tutorial 1_Session 2.1 CSS Styles and Colors.md",
+    "+/Atlas/HUBs/Creating a Style Sheet.md",
+    "@import.md",
+    "Importing Style Sheets.md",
+    "CSS at-rule.md",
+    "Defining the Character Encoding.md",
+    "Writing Style Comments.md",
+    "HTML_CSS_FILES/html02/tutorial/tss_bike.html",
+    "HTML_CSS_FILES/html02/tutorial/tss_styles.css",
+    "HTML_CSS_FILES/html02/tutorial/tss_home.html",
+    "+/Atlas/HUBs/Exploring Style Rules.md",
+    "Browser Developer Tools.md",
+    "Style Inheritance.md",
+    "Style Specificity and Precedence.md",
+    "+/Atlas/References/Inline Styles.md",
+    "+/Atlas/References/Inline Elements.md",
+    "+/Atlas/References/Browser Extensions.md",
+    "vendor prefix.md",
+    "+/Atlas/Courses/HTML_CSS/Level 1/Tutorial 1 Getting started with HTML5",
+    "JavaScript/Chapter02/Solano, Israel - JS02-P02.zip",
+    "JavaScript/Chapter02/project02.zip",
+    "JavaScript/Chapter02/project02/project02-02.js",
+    "JavaScript/Chapter02/project02/project02-02.html",
+    "JavaScript/Chapter02/Solano, Israel - JS02-P01.zip",
+    "JavaScript/Chapter02/project01.zip",
+    "JavaScript/Chapter05/chapter/photo10.jpg",
+    "JavaScript/Chapter05/chapter/photo11.jpg",
+    "JavaScript/Chapter05/chapter/photo12.jpg",
+    "Untitled.canvas",
+    "+/Atlas/Concepts/Pasted image 20260215163329.png",
+    "+/Atlas/Concepts/Sample Folder Structure.png",
+    "+/Atlas/Concepts/Pasted image 20260215210433.png",
+    "+/Atlas/Concepts/Pasted image 20260215210411.png",
+    "+/Atlas/Concepts/Pasted image 20260215205351.png",
+    "+/Atlas/Concepts/Pasted image 20260215191138.png",
+    "+/Atlas/Concepts/Pasted image 20260215151229.png"
+  ]
+}

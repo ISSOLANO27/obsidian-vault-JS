@@ -1,0 +1,1 @@
+From the most general down through the most specific. JavaScript manages that event through an [[Event Model]] 

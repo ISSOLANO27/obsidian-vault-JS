@@ -1,0 +1,3 @@
+One script that provides support for HTML 5 is [Modernizr](_http://modernizr.com_); another is HTML 5 [Shiv](_https://github.com/aFarkas/HTML 5shiv_). Many HTML editors, such as Dreamweaver, supply their own script files to cope with legacy browsers. Note that even with these scripts, the rendering of your page under old browsers might not match current browsers.
+
+>Editors or libraries that “provide [[scripts]],” means they ship **JavaScript files ([[polyfills]])** that you include in your HTML page to patch missing features in older browsers.

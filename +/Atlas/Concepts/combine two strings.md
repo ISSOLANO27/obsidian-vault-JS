@@ -1,0 +1,1 @@
+In the case of strings, the string on the left side of the operator is combined with the string on the right side of the operator, and the **new value is assigned to the left operator**.

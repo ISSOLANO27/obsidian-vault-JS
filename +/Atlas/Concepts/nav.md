@@ -1,0 +1,1 @@
+To mark a navigation list of hypertext links.

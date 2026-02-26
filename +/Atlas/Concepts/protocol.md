@@ -1,0 +1,1 @@
+a set of rules defining how information is passed between two devices

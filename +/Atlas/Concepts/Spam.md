@@ -1,0 +1,1 @@
+unsolicited email sent to large numbers of people, promoting products, services, and in some cases inappropriate websites

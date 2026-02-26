@@ -1,0 +1,5 @@
+Use caution when adding email links to your website. While it may make it more convenient for users to contact you, it also might make you more vulnerable to spam. [[Spam]] is unsolicited email sent to large numbers of people, promoting products, services, and in some cases inappropriate websites. 
+
+Spammers create their email lists by [[scanning discussion groups]], [[stealing Internet mailing lists]], and using programs called [[email harvesters]] to scan HTML code for the email addresses contained in mailto URLs. Many developers have removed email links from their websites in order to foil these harvesters, **replacing the links with web forms that submit email requests to a secure server.**
+
+Fighting spammers is an ongoing battle, and they have proved very resourceful in overcoming some of the defenses people have created. As you develop your website, you should carefully consider how to handle email addresses and review the most current methods for safeguarding that information.

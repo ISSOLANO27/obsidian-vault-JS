@@ -1,0 +1,3 @@
+Objects are one of the fundamental building blocks of JavaScript, as well as many other programming languages. You can think of an object as anything you want to be able to work with in your programs. Some objects, such as the Document object, are part of a document by definition. You can also create other objects that are necessary for the programs you want to create. Every object can have methods, which are actions that can be performed on it. Every object also has properties; each property is a different piece of information about the object. 
+
+> Understanding the relationship between objects, properties, and methods is an important part of building a strong foundation in JavaScript.

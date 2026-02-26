@@ -1,0 +1,1 @@
+a server-side language usually prepares and processes the data in some way before submitting it to the [[Data storage tier]]
