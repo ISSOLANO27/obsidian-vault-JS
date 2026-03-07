@@ -1,0 +1,1 @@
+the act of tracing and resolving errors in a program.

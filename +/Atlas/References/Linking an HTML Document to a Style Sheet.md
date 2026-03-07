@@ -19,7 +19,7 @@ Since `link` can be used to link to other data, the `rel` attribute is required 
 Link is metadata, it ALWAYS belongs in the head.
 
 Related:
-- [[link]]
+- [[link element]]
 - [[Creating an HTML File]]
 
 

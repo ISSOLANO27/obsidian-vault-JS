@@ -1,0 +1,1 @@
+the width property **only refers to the width of the element content** and any padding or borders constitute added space.

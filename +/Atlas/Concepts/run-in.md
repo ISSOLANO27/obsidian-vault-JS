@@ -1,0 +1,1 @@
+Displayed as a block unless its next sibling is also a block, in which case, it is displayed inline, essentially combining the two blocks into one

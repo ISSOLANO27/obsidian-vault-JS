@@ -1,0 +1,1 @@
+a set of data represented by a single variable name. You use an array when you want to store a group or a list of related information in a single, easily managed location. Lists of names, courses, test scores, and prices are typically stored in arrays.

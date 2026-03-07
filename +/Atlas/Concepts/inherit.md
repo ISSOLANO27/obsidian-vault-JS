@@ -1,0 +1,1 @@
+Inherits the display property of the parent element

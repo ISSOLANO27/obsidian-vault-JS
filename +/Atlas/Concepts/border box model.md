@@ -1,0 +1,1 @@
+the width property is based on the sum of the content, padding, and border spaces and any space taken up by the padding and border is subtracted from space given to the content.

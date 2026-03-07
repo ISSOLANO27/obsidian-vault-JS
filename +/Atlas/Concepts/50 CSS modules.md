@@ -19,4 +19,4 @@ The eTextbook _New Perspectives on HTML5 and CSS, Comprehensive_ introduces CSS 
 So when the text says “over 50 CSS modules,” it’s emphasizing that CSS is not a single frozen document but a living collection of specifications. The textbook mirrors this modular approach by teaching CSS in chunks—colors, fonts, selectors, pseudo-elements, accessibility—each corresponding to one or more official CSS modules. This helps learners see CSS as a flexible, evolving toolkit rather than a rigid set of rules.
 
 ---
-Back: [[Tutorial 1_Session 2.1 CSS Styles and Colors]]
+Back: [[Tutorial 2 CSS Styles and Colors]]

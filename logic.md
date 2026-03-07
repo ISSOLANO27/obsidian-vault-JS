@@ -1,0 +1,1 @@
+ refers to the arrangement of operations within the program to achieve its intended goal.

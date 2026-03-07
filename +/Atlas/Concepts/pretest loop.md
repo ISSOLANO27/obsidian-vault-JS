@@ -1,0 +1,1 @@
+the condition is evaluated before each iteration of the command block.

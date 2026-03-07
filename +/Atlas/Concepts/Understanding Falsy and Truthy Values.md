@@ -4,7 +4,7 @@ JavaScript includes **six values that are treated in comparison operations as th
 - 0
 - NaN
 - null
-- undefined. #undefined/Null/NANNisFALSE 
+- undefined. #falsyValues
 
 All values other than these six falsy values are the equivalent of Boolean `true`, and are known as **truthy values**.
 

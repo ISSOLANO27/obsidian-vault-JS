@@ -41,18 +41,25 @@
         "a": 1,
         "rgb": 2543907
       }
+    },
+    {
+      "query": "path:+/Efforts  ",
+      "color": {
+        "a": 1,
+        "rgb": 7684875
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.37709090909091,
+  "nodeSizeMultiplier": 0.993229166666667,
   "lineSizeMultiplier": 1.01875,
   "collapse-forces": false,
-  "centerStrength": 0.348958333333333,
-  "repelStrength": 10.625,
-  "linkStrength": 0.197916666666667,
+  "centerStrength": 0.28125,
+  "repelStrength": 9.16666666666667,
+  "linkStrength": 0.375,
   "linkDistance": 30,
-  "scale": 0.45688211772284115,
+  "scale": 0.33010775279680266,
   "close": true
 }

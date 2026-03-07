@@ -2,7 +2,7 @@
 | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | [[head]]                            | Contains a collection of metadata elements that describe the document or provide instructions to the browser               |
 | [[base]]                            | Specifies the document’s location for use with resolving relative hypertext links                                          |
-| [[link]]                            | Specifies an external resource that the document is connected to                                                           |
+| [[link element]]                            | Specifies an external resource that the document is connected to                                                           |
 | [[Adding Metadata to the Document]] | Provides a generic list of metadata values such as search keywords, viewport properties, and the file’s character encoding |
 | [[script]]                          | Provides programming code for programs to be run within the document                                                       |
 | [[style]]                           | Defines the display styles used to render the document content                                                             |

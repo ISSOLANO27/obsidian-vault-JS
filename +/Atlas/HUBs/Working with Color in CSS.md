@@ -3,7 +3,7 @@ The first part of your style sheet for the Tri and Succeed Sports website will f
 Specifying color with CSS is somewhat **less intuitive** because CSS is a text-based language and requires colors to be defined in textual terms. This is done through a **color name** or a **color value**.
 
 ---
-Back: [[Tutorial 1_Session 2.1 CSS Styles and Colors]]
+Back: [[Tutorial 2 CSS Styles and Colors]]
 related:
 - [[Color Names]]
 - [[RGB Color values]]

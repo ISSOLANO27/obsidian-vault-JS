@@ -1,0 +1,1 @@
+a pejorative programming term that refers to convoluted or poorly written code

@@ -1,0 +1,1 @@
+a series of conditions that all must be true before an action is taken

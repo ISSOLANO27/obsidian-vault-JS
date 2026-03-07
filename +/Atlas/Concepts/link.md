@@ -1,1 +1,1 @@
-Specifies an external resource that the document is connected to
+Link Pseudo-element matches unvisited link.

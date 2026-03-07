@@ -1,4 +1,4 @@
-JavaScript functions are like little logic capsules. They hold behavior. The only real difference between _named_ and _anonymous_ functions is whether they carry an internal label.
+JavaScript functions are like little logic capsules. They hold behavior. The only real difference between _named_ and _anonymous_ functions is **whether they carry an internal label**. 
 
 But that small difference ripples into debugging, scope behavior, and how the engine treats them under the hood. Let’s peel it apart carefully.
 

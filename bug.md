@@ -1,0 +1,1 @@
+Any error in a program that causes it to function incorrectly, whether because of incorrect syntax or flaws in logic.

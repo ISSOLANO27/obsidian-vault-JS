@@ -8,7 +8,7 @@ Some of the styles might originate from the *browser style sheet* while others w
 Part of the challenge of CSS is **determining** [how styles from these different style sheets interact to determine the page’s final appearance].
 
 ---
-Back: [[Tutorial 1_Session 2.1 CSS Styles and Colors]]
+Back: [[Tutorial 2 CSS Styles and Colors]]
 
 related:
 - [[]]

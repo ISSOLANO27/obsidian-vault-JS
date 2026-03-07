@@ -1,0 +1,1 @@
+next to or adjoining something else:

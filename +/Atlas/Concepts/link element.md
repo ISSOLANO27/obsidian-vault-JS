@@ -1,0 +1,1 @@
+Specifies an external resource that the document is connected to

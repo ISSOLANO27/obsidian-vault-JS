@@ -4,5 +4,8 @@
 [[Changing the source of an inline image]]
 [[Connecting to an external JavaScript File]]
 
+Chapter 3
+[[Calendar Project]]
+
 
 

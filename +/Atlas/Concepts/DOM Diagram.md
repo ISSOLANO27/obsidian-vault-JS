@@ -1,3 +1,6 @@
+[[Methods are Properties that belong to the Document Object]]
+
+
 DOM (Document Object Model)
 │
 └── Document (root object)
@@ -9,13 +12,15 @@ DOM (Document Object Model)
     │    │   
     │    └── <body>
     │         ├── <h1>
-    │         ├── <p>
+    │        ├── <p>
     │         ├── <div>
     │         │    └── <span>
     │         └── <script>
     │
-    └── Methods & Properties
+    └── Methods & Properties 
          ├── getElementById()
          ├── querySelector()
          ├── createElement()
          └── write()
+
+

@@ -1,0 +1,1 @@
+**Typography** is the art of designing the appearance of characters and letters on a page. 

@@ -1,0 +1,1 @@
+Displayed inline within a block

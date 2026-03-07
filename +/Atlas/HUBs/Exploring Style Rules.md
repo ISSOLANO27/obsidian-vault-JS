@@ -19,7 +19,7 @@ h1 {
 >Css **ignores use of white space**, so you can enter the style more compactly in a single line. Sure you save space, but entering each property on a separate line makes the code easier to read and build. #writingEffectiveCode 
 
 ---
-Back: [[Tutorial 1_Session 2.1 CSS Styles and Colors]]
+Back: [[Tutorial 2 CSS Styles and Colors]]
 
 related:
 - [[Browser Extensions]]

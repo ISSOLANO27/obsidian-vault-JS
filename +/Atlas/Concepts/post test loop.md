@@ -1,0 +1,1 @@
+the condition is evaluated **after** the command block has been executed **at least once.**
