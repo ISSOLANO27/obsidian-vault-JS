@@ -1,20 +1,25 @@
 To define the number and size of grid columns use `grid-template-column`
-`grid-template-columns: width1 width2;`
+```css
+
+grid-template-columns: width1 width2;`
+```
 
 The following creates 2 columns. The first 250px and the other at 100px:
 ```css
 grid-template-columns: 250px 100px;
 ```
 ---
-Columns widths can be expressed using
+### Columns widths can be expressed using
 - pixels
 - ems
 - percentages
 
-You can also use `auto` to **allow the column width to be automatically** set by the browser:
+	#### Using `auto` to let the Browser decide..
+	You can also use `auto` to **allow the column width to be automatically** set by the browser:
 ```css
 grid-template-columns: 100px auto 50px;
 ```
+
 > This could be used in a layout where the first and third columns are used for navigation lists that are fixed in size while ethe middle column contains the article.
 
 ---

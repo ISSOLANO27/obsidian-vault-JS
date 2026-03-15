@@ -20,7 +20,8 @@ body {
    grid-template-areas: "header header"
                         "intro faq"
                         "articles faq"
-                        "footer footer"; 
+                        "footer footer";
+   grid-column-gap: 15px; 
 }
 
 body > header {
@@ -49,11 +50,11 @@ section >h1 {
 
 
 
-/*body > * {
+body > * {
    outline: 2px dashed red;
 }
 
 section > * {
    outline: 2px dashed blue;
-}*/
+}
 

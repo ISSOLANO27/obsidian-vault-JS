@@ -31,6 +31,6 @@ you can prevent browsers from displaying an element by setting its `display` to 
 > TIP: You can hide elements by applying the style `visibility: hidden;` ==This hides the element content but leaves the elements still occupying the same space in the page.==
 
 ---
-back: [[Session 3.1]]
+back: [[Session 3.1 -  Page Layout with Floating Elements]]
 related:
 - [[Creating a Reset Style Sheet]]

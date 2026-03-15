@@ -1,0 +1,1 @@
+breakpoints that are activated when an event occurs within the web page or browser

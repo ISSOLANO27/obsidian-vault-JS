@@ -1,49 +1,44 @@
+"use strict";
 /*    JavaScript 7th Edition
       Chapter 4
       Project 04-03
 
-      Application to count the number of characters in a review comment
-      Author: 
-      Date:   
+      Author: Israel Solano
+      Date:   03/12/2026
 
       Filename: project04-03.js
 */
 
-// Maximum Length of Review
 const MAX_REVIEW = 100;
-document.getElementById("limit").innerHTML = MAX_REVIEW;
 
-// Reference to elemets in the web page
-wordCountBox = document.getElementById("countValue");
-warningBox = document.getElementById("warningBox");
+let commentBox = document.getElementById("comment");
+let countValue = document.getElementById("countValue");
+let limitLabel = document.getElementById("limit");
+let warningBox = document.getElementById("warningBox");
 
+limitLabel.innerHTML = MAX_REVIEW;
 
-// Event listener for typing into the comment box
-document.getElementById("comment").addEventListener(keyup, updateCount);
+commentBox.addEventListener("keyup", updateCount);
 
-// Function to update the count with each keyup event
 function updateCount() {
-   // Set the warning box to an empty text string 
-   warningBox.innerHTML = "";
-   
-   // Count the number of characters in the comment box
-   commentText = document.getElementById("comment").value;
-   charCount = countCharacters(commentsText);
-   
+   let charCount = commentBox.value.length;
+
+   try {
+
+      if (charCount > MAX_REVIEW) {
+         throw "You have exceeded the character count limit";
+      }
+      warningBox.innerHTML = "";
+
+   }catch (error) {
+      warningBox.innerHTML = error;
+   }
+   finally {
+      countValue.innerHTML = charCount;
+   }
 }
 
 
 
 
 
-
-
-
-
-/*=================================================================*/
-// Function to count the number of characters in a text string
-function countCharacters(textStr) {
-   var commentregx = /\s/g;
-   var chars = textStr.replace(commentregx, "");
-   return chars.length;
-} 

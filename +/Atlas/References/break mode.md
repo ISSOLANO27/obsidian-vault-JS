@@ -1,0 +1,1 @@
+the program execution is suspended to allow the programmer to review the current state of variables and functions.

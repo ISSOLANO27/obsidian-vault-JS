@@ -1,0 +1,1 @@
+The program handles errors rather than leaving that task to the JavaScript interpreter

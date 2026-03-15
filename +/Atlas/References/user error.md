@@ -1,0 +1,1 @@
+A user error occurs when the user mistakenly runs the program in a way not intended by the developer, such as an entering a text string when a numeric value is called for or neglecting to enter all required data.

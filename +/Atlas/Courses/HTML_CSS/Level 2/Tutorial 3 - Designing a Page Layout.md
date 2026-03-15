@@ -2,15 +2,10 @@
 
 ### Objectives
 
-- [[Session 3.1 - Designing a Web Page Layout]]
+- [[Session 3.1 -  Page Layout with Floating Elements]]
 - [[Session 3.2 - CSS Grid Layouts]]
+- [[Session 3.3 - Layout with Positioning Styles]]
 
-
-- **Session 3.3**
-	- Explore positioning styles
-	- Work with relative positioning
-	- Work with absolute positioning
-	- Work with overflow content
 
 
 ---

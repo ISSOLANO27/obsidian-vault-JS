@@ -16,28 +16,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          }
-        ]
-      },
-      {
-        "id": "2be2c0f37f2fd584",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "c5e3c47b29ebb563",
+            "id": "8240f44e90ce4f5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Starting Debugging with the Browser Console.md",
+                "file": "Designing a Web App.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Starting Debugging with the Browser Console"
+              "title": "Designing a Web App"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "===",
+                "query": "chapter 5",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 523.5,
+    "width": 302.5,
     "collapsed": true
   },
   "right": {
@@ -198,54 +193,54 @@
       "bases:Create new base": false
     }
   },
-  "active": "c5e3c47b29ebb563",
+  "active": "8240f44e90ce4f5d",
   "lastOpenFiles": [
-    "Chapter 4 - Debugging and Error Handling.md",
-    "Logic Errors.md",
-    "Common Methods for Analyzing Logic Errors.md",
-    "linting.md",
-    "Use `console.log()` as checkpoints.md",
-    "Test Edge Cases.md",
-    "Trace the Code step by Step.md",
-    "Runtime Errors.md",
-    "Load-Time Errors.md",
-    "+/Atlas/Concepts/local scope.md",
-    "Running JavaScript in Strick Mode.md",
-    "Starting Debugging with the Browser Console.md",
-    "Tracing Error to Their Source.md",
-    "Customizing Your Error Handling.md",
-    "Managing Errors.md",
-    "Tracking Program Flow with Debugging Tools.md",
-    "+/Atlas/Courses/JavaScript/CH1 Introduction to JavaScript/JavaScript.md",
-    "+/Atlas/References/Programming Languages.md",
-    "debugging.md",
-    "bug.md",
-    "logic.md",
-    "+/Atlas/Courses/JavaScript/CH2_Working with Functions, Data Types, and Operators/Chapter 2 - Working with Functions, Data Types, and Operators.md",
-    "+/Atlas/Concepts/while loop.md",
-    "+/Atlas/Concepts/To Determine the Size of an Array.md",
-    "+/Atlas/Concepts/There are several different types of program loops.md",
-    "+/Atlas/Concepts/Writing a for Loop.md",
-    "+/Efforts/Pasted image 20260304001950.png",
-    "JavaScript/Chapter03/chapter/js03.js",
-    "JavaScript/Chapter03/chapter/js03.html",
-    "courses/JavaScript/ch03",
-    "+/Atlas/Concepts/Pasted image 20260211002228.png",
-    "+/Atlas/Concepts/Pasted image 20260215141111.png",
-    "+/Atlas/Concepts/Pasted image 20260215141458.png",
-    "+/Atlas/Concepts/Pasted image 20260215151229.png",
-    "+/Atlas/Concepts/Pasted image 20260215163329.png",
-    "+/Atlas/Concepts/Pasted image 20260215191138.png",
-    "+/Atlas/Concepts/Pasted image 20260215205351.png",
-    "+/Atlas/Concepts/Pasted image 20260215210411.png",
-    "+/Atlas/Concepts/Pasted image 20260215210433.png",
-    "HTML_CSS_FILES/html03/tutorial/pc_grids.css",
-    "HTML_CSS_FILES/html03/tutorial/pc_about.html",
-    "HTML_CSS_FILES/html03/tutorial/pc_reset.css",
-    "HTML_CSS_FILES/html03/tutorial/pc_home.css",
-    "HTML_CSS_FILES/html03/tutorial/pc_home.html",
-    "Tutorial 3 - Designing a Page Layout",
-    "+/Atlas/Courses/HTML_CSS/Level 2/Tutorial 3_Designing a Page Layout/Tutorial 3",
+    "+/Atlas/References/lightbox.md",
+    "Designing a Web App.md",
+    "Pasted image 20260315035755.png",
+    "+/Atlas/Courses/JavaScript/CH5_Creating a Web App using the DOM/Chapter 5 - Creating a Web App Using the DOM.md",
+    "CH5 Hands On Projects.md",
+    "CH5 Case Projects.md",
+    "CH5 Review Questions.md",
+    "CH5 Key Terms.md",
+    "CH5 Summary.md",
+    "+/Atlas/Concepts/Introducing Nodes.md",
+    "+/Atlas/Concepts/Exploring the Browser Object Model.md",
+    "+/Atlas/Courses/HTML_CSS/Level 2/Tutorial 3 - Designing a Page Layout.md",
+    "+/Atlas/Concepts/fixed layout.md",
+    "HTML_CSS_FILES/html02/demo/demo_color_names.html.md",
+    "Summary.md",
+    "+/Atlas/Courses/JavaScript/CH4_Debugging and Error Handling/Chapter 4 - Debugging and Error Handling.md",
+    "Creating an Overlay.md",
+    "+/Atlas/HUBs/Tutorial 4 - Graphic Design with CSS.md",
+    "+/Atlas/Concepts/Nodes and the DOM.md",
+    "+/Atlas/Concepts/Stacking Elements.md",
+    "+/Atlas/Concepts/Clipping an Element.md",
+    "+/Atlas/HUBs/Session 3.3 - Layout with Positioning Styles.md",
+    "+/Atlas/Concepts/Proskills - Problem Solving -- Principles of Design.md",
+    "+/Atlas/Concepts/Pasted image 20260315030048.png",
+    "+/Atlas/Concepts/Pasted image 20260315030022.png",
+    "+/Atlas/Concepts/Reference - Clipping Content.md",
+    "+/Atlas/Concepts/Pasted image 20260315025143.png",
+    "+/Atlas/Concepts/Handling Overflow.md",
+    "+/Atlas/Concepts/Insight - Managing White Space with CSS.md",
+    "+/Atlas/Concepts/Reference - Working with Overflow.md",
+    "+/Atlas/Concepts/Pasted image 20260315023019.png",
+    "HTML_CSS_FILES/html03/tutorial/pc_info.html",
+    "HTML_CSS_FILES/html03/tutorial/pc_info.css",
+    "+/Atlas/Concepts/Pasted image 20260314181016.png",
+    "+/Atlas/Concepts/Pasted image 20260314151205.png",
+    "+/Atlas/Concepts/Pasted image 20260314115135.png",
+    "+/Atlas/Concepts/Pasted image 20260314015633.png",
+    "+/Atlas/Concepts/Pasted image 20260314005620.png",
+    "JavaScript/Chapter04/Solano, Israel - JS04-P02.zip",
+    "JavaScript/Chapter04/project02.zip",
+    "JavaScript/Chapter04/Solano, Israel - JS04-P01.zip",
+    "JavaScript/Chapter04/project01.zip",
+    "JavaScript/Chapter04/project02/project04-02.js",
+    "JavaScript/Chapter04/project02/project04.html",
+    "JavaScript/Chapter04/project02/project04-02.html",
+    "JavaScript/Chapter04/project01/project04-01.html",
     "Untitled.canvas"
   ]
 }

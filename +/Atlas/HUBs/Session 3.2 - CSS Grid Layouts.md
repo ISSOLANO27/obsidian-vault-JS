@@ -15,6 +15,5 @@ back: [[Tutorial 3 - Designing a Page Layout]]
 
 
 - [[Working with Grid Rows and Columns]]
-- [[Placing items within a Grid]]
+- [[Placing Items Within a Grid]]
 - [[Managing Space within a Grid]]
-- [[Positioning Objects]]

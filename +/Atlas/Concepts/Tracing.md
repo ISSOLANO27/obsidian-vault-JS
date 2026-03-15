@@ -1,0 +1,1 @@
+the examination of individual statements in an executing program. 

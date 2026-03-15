@@ -1,0 +1,1 @@
+multiple images are displayed in a scrolling gallery with individual images expanded to fill the entire screen, dimming the rest of the page.

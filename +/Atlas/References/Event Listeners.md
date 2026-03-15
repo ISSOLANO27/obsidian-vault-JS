@@ -19,6 +19,8 @@ related:
 - [[A single event interacts with a hierarchy of objects]]
 - [[To Attach an Event Listener to an object]]
 
+- [[Types of Events]]
+
 example:
 [[Applying a Function to an Event]]
 
