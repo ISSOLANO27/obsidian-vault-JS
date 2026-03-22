@@ -1,0 +1,1 @@
+an external window to be opened and displayed on top of or adjacent to the application content.

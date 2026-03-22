@@ -71,7 +71,7 @@ and `userInput` contains:
 
 The browser will execute it.
 
-That’s called [[XSS (Cross-Site Scripting)]]. It’s a real security issue. #securityIssue
+That’s called [[XSS (Cross-Site Scripting) NOT SQL Injections]]. It’s a real security issue. #securityIssue
 
 That’s why modern best practice is often to use:
 

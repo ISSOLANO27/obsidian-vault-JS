@@ -1,0 +1,1 @@
+ an element that lays on top of the rest of the page content, partially obscuring that content.

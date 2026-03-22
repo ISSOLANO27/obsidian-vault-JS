@@ -1,0 +1,1 @@
+An overlay is sometimes referred to as a **modal or modal window**, a window that takes control of an application and **must be closed** before the user can continue using the app.

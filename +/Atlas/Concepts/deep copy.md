@@ -1,0 +1,1 @@
+copies the node and all of its descendants

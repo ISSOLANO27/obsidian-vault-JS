@@ -17,7 +17,9 @@ related:
 - [[Running Timed Commands]]
 - [[Working with Popup Windows]]
 - [[Creating an Overlay]]
-- [[Exploring the Browser Object Model]]
+	- [[Introducing the `this` Object]]
+	- [[Removing a Node]]
+- [[Exploring Browser Object Model]]
 
 [[CH5 Summary]] 
 [[CH5 Key Terms]]
