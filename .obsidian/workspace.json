@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/Atlas/Concepts/The navigator Object.md",
+                "file": "+/Atlas/Concepts/modal or modal window.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The navigator Object"
+              "title": "modal or modal window"
             }
           }
         ],
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 480.5,
-    "collapsed": true
+    "width": 480.5
   },
   "right": {
     "id": "df792c518849b2f9",
@@ -193,17 +192,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "71d8d821994084a9",
+  "active": "7c6aaabdc66ebd3f",
   "lastOpenFiles": [
+    "+/Atlas/Concepts/The navigator Object.md",
     "+/Atlas/HUBs/Exploring Browser Object Model.md",
     "+/Atlas/Concepts/The screen Object.md",
-    "Skills at Work - Designing your Web App.md",
+    "+/Atlas/Concepts/Skills at Work - Designing your Web App.md",
     "+/Atlas/References/Properties of the `screen` object.md",
-    "+/Atlas/Concepts/The navigator Object.md",
-    "object detection.md",
+    "+/Atlas/Concepts/object detection.md",
     "+/Atlas/References/Properties of the navigator object.md",
     "+/Atlas/Concepts/The location Object.md",
-    "When object is omitted, window is assumed..md",
+    "+/Atlas/Concepts/When object is omitted, window is assumed..md",
     "+/Atlas/References/Property Methods and Location Object.md",
     "+/Atlas/Concepts/The History Object.md",
     "+/Atlas/Concepts/Browser Object Model (BOM).md",
@@ -211,18 +210,18 @@
     "+/Atlas/Courses/JavaScript/CH5_Creating a Web App using the DOM/images/Browser Object Model..png",
     "+/Atlas/Courses/JavaScript/CH5_Creating a Web App using the DOM/images/Browser Object Model.png",
     "+/Atlas/Courses/JavaScript/CH5_Creating a Web App using the DOM/Chapter 5 - Creating a Web App Using the DOM.md",
-    "Introducing the `this` Object.md",
+    "+/Atlas/Concepts/Introducing the `this` Object.md",
     "+/Atlas/Concepts/Removing a Node.md",
-    "CH5 Quickcheck3.md",
-    "Best Practices - Designing the Look of an App.md",
+    "+/Atlas/Concepts/CH5 Quickcheck3.md",
+    "+/Atlas/Concepts/Best Practices - Designing the Look of an App.md",
     "+/Atlas/Concepts/Creating an Overlay.md",
     "+/Atlas/Courses/JavaScript/CH5_Creating a Web App using the DOM/images/Image overlay for the Light box app.png",
-    "modal or modal window.md",
+    "+/Atlas/Concepts/modal or modal window.md",
     "+/Atlas/References/overlay.md",
     "+/Atlas/HUBs/Working with Popup Windows.md",
     "+/Atlas/Concepts/Writing Content to a Browser Window.md",
     "+/Atlas/Concepts/Limitations of Browser Windows.md",
-    "popup window can be designed in whatever fashion.md",
+    "+/Atlas/Concepts/popup window can be designed in whatever fashion.md",
     "+/Atlas/Concepts/Working with Browser Windows.md",
     "+/Atlas/Concepts/Pasted image 20260319235315.png",
     "+/Atlas/Concepts/JavaScript popup windows.png",
