@@ -2,12 +2,11 @@ You can place [[The Script Element]] just about anywhere in a document. However,
 
 ---
 
-
+Back:
+- [[Chapter 1 - Introduction to JavaScript]]
 related:
 - [[No Need to Repeat Yourself]]
 - [[Script Element Placement]]
 
 
 
-HUB:
-- [[Writing a JavaScript Program]]

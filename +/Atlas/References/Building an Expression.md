@@ -15,12 +15,12 @@ document.write("<p>Your sales total is $" + salesTotal + ".</p>");
 // result: HTML code <p>your sales total is $47.58.</p> written to the web page.
 ```
 
+---
+Back:
+- [[Building Expressions with Variables]]
 related:
 - [[expression]]
 - [[operand]]
 - [[operators]]
 - [[literal]]
 - [[Arithmetic Operations]]
-
-HUB:
-- [[Building Expressions with Variables]]

@@ -17,9 +17,10 @@ let fName = document.getElementById("firstName");
 
 ```
 ---
-back: [[Different Ways to Specify Event handlers]]
+back: [[Understanding Events]]
 
 related:
 - [[Appending Specific Properties of an Element to the Element Reference]]
+-  [[Different Ways to Specify Event handlers]]
 
 [[CH1Quick Check]]:

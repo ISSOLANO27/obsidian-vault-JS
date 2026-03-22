@@ -3,4 +3,4 @@
 - If you reverse them, the script output comes first.
 
 related:
-- [[Write()]]
+- [[Write() Method]]

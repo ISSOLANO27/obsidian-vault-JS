@@ -28,7 +28,7 @@ related:
 - [[Add Text To Web Page 2 Main Ways]]
 - [[Document Write Example]]
 
-HUB:
+back:
 - [[Writing a JavaScript Program]]
 
 

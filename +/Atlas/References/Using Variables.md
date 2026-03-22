@@ -1,4 +1,4 @@
-A variable stores values in computer memory.
+A variable stores values in computer memory. 
 
 Data stored in a specific variable often will change.
 
@@ -16,7 +16,7 @@ related:
 -  [[Declaring and Initializing Variables]]
 
 - [[Building Expressions with Variables]]
-- [[Modifying Variables]]
+- [[+/Atlas/References/Modifying Variables]]
 
 
 

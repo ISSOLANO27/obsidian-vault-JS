@@ -8,7 +8,7 @@
 
 
 **Methods**
-- [[Write()]] - Not part of the DOM tree in the same way as Elements
+- [[Write() Method]] - Not part of the DOM tree in the same way as Elements
 
 - Important distinction:
 	- The DOM is the structured tree of element objects.

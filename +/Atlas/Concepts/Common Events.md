@@ -5,7 +5,7 @@
 
 - [[Events that are NOT direct result of user action]]
 
-## 📚 JavaScript Event Reference (With Origin Classification)
+
 If it’s **hybrid**, the browser is actively interpreting something before firing the event.
 
 | EVENT      | PRIMARY TRIGGER TYPE         | CLASSIFICATION    | WHY (Origin Explanation)                                                                      | DESCRIPTION                                            |

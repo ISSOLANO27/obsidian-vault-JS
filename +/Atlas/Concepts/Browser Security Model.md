@@ -5,4 +5,4 @@ The browser must assume that code might be malicious, therefore it cannot be tru
 
 related:
 - [[JavaScript Limitations]]
-- [[JavaScript]]
+- [[Exploring the JavaScript Language]]

@@ -3,7 +3,7 @@ tells the browser to parse the HTML and JavaScript code together, only pausing t
 [[Great for analytics scripts.  ]]
 [[Bad for DOM manipulation scripts]].
 
-![[Pasted image 20260215205351.png]]
+![[Loading HTML and JavaScript code.png]]
 
 related:
 - [[Creating a JS Source File]]

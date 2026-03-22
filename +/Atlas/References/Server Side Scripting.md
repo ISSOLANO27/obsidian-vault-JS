@@ -20,7 +20,7 @@ Some of these include:
 
 
 related:
-- [[JavaScript]]
+- [[Exploring the JavaScript Language]]
 - [[Why Server side scripting CANNOT run on the browser]]
 - [[Should I Use Client Side or Server Side Scripting]]
 - [[Client tier]]

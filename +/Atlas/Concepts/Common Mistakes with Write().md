@@ -8,4 +8,4 @@
 > make sure to code objects in lowercase.
 
 related:
-- [[Write()]]
+- [[Write() Method]]

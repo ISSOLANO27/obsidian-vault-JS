@@ -18,6 +18,6 @@ Modern websites rely on all three working together rather than a single language
 
 
 ## HUB
-- [[JavaScript]]
+- [[Exploring the JavaScript Language]]
 - [[Web Architecture]]
 

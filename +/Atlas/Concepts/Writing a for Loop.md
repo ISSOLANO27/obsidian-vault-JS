@@ -25,7 +25,7 @@ Correct way:
 ---
 Once you have a defined collection, you can work with individual collection objects as you would with individual array element
 
-### Adding Event Listeners on HTML Collection `input`
+### Adding `Event Listeners `on HTML Collection `input`
 ```js
 let allInputs = document.getElementsByTagName("input");
 for (let i = 0; i < allInputs.length; i++) {

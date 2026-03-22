@@ -1,6 +1,6 @@
 ## Quick but Problematic
 
-document.[[Write()]] is an easy way to insert text or HTML into a page but it comes with performance and usability issues.
+document.[[Write() Method]] is an easy way to insert text or HTML into a page but it comes with performance and usability issues.
 ### Performance Hit
 
 Every time you call document.write(), the browser has to rebuild the DOM to include the new content. 

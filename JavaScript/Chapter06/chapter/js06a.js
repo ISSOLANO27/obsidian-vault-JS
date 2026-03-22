@@ -4,8 +4,8 @@
       Chapter case
 
       Order Form Code
-      Author: 
-      Date:   
+      Author: Israel Solano
+      Date:   03/22/2026
 
       Filename: js06a.js
  */

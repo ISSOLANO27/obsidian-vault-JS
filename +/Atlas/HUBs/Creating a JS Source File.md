@@ -16,14 +16,18 @@ They contain only JavaScript code and do not contain any HTML or CSS code unless
 
 You can modify when the external script file is accessed and loaded by adding the [[async]] or defer attribute to the opening `script` tag.
 
-![[Pasted image 20260215205351.png]]
+![[Loading HTML and JavaScript code.png]]
+
+Back:
+- [[Chapter 1 - Introduction to JavaScript]]
 
 related:
-- [[Different Ways to Specify Event handlers]]
 - [[Referencing an External File]]
+- [[Different Ways to Specify Event handlers]]
+
 - [[async]]
 - [[defer]]
+- [[Connecting to an external JavaScript File]]
 - [[Async and Defer are ignored for embedded scripts]]
+- [[Working with Libraries]]
 
-HUB:
-- [[Writing a JavaScript Program]]
